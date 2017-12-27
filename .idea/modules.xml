@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyWork.iml" filepath="$PROJECT_DIR$/MyWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PushSDK/PushSDK.iml" filepath="$PROJECT_DIR$/PushSDK/PushSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beauty/beauty.iml" filepath="$PROJECT_DIR$/beauty/beauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameardemo/cameardemo.iml" filepath="$PROJECT_DIR$/cameardemo/cameardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameardemo2/cameardemo2.iml" filepath="$PROJECT_DIR$/cameardemo2/cameardemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camearopengles/camearopengles.iml" filepath="$PROJECT_DIR$/camearopengles/camearopengles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkbox/checkbox.iml" filepath="$PROJECT_DIR$/checkbox/checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkbox1/checkbox1.iml" filepath="$PROJECT_DIR$/checkbox1/checkbox1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interval/interval.iml" filepath="$PROJECT_DIR$/interval/interval.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opengles/opengles.iml" filepath="$PROJECT_DIR$/opengles/opengles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roundspinview/roundspinview.iml" filepath="$PROJECT_DIR$/roundspinview/roundspinview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unitapp/unitapp.iml" filepath="$PROJECT_DIR$/unitapp/unitapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upush/upush.iml" filepath="$PROJECT_DIR$/upush/upush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verticalview/verticalview.iml" filepath="$PROJECT_DIR$/verticalview/verticalview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoview/videoview.iml" filepath="$PROJECT_DIR$/videoview/videoview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="这是第一个View，也是一个ScrollView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            />
+        <Button
+            android:id="@+id/firstButton"
+            android:text="第一个View上的提示"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            />
+    </LinearLayout>
+</ScrollView>

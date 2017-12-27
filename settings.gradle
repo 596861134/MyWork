@@ -1,0 +1,1 @@
+include ':app', ':checkbox', ':checkbox1', ':cameardemo', ':cameardemo2', ':roundspinview', ':upush', ':PushSDK', ':verticalview', ':unitapp', ':videoview', ':interval', ':beauty', ':beauty', ':opengles', ':camearopengles'

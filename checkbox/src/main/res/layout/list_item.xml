@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/friend_image"
+        android:layout_width="154dp"
+        android:layout_height="154dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@mipmap/ic_launcher"/>
+
+    <CheckBox
+        android:id="@+id/selected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/friend_image"
+        android:focusable="false"/>
+
+    <LinearLayout
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/friend_image"
+        android:background="#d70c18"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/friend_username"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:text="款号"
+            android:textColor="#ffffff"
+            android:textSize="18dip"/>
+
+        <TextView
+            android:id="@+id/friend_id"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:text="价格"
+            android:textColor="#ffffff"
+            android:textSize="16dip"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
